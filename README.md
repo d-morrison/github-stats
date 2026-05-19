@@ -1,5 +1,11 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+> **Repository provenance:** This repository is a copy of
+> [jstrieb/github-stats](https://github.com/jstrieb/github-stats), created by
+> following the original README instructions to copy the current commit (not
+> fork). I (@d-morrison) did not create the code in this repository; I am using
+> it to generate my own stats images.
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
